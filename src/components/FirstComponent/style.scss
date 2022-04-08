@@ -1,0 +1,9 @@
+$first-component-prefix: 'first-component';
+
+.#{$css-prefix} {
+  &-#{$first-component-prefix} {
+    &-red{
+      color: red;
+    }
+  }
+}
