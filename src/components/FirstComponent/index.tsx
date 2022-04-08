@@ -11,7 +11,7 @@ function FirstComponent() {
   );
   return (
     <div className={wrapperClass}>
-      这是第一个组件啊
+      这是第一个组件啊1
     </div>
   );
 }
