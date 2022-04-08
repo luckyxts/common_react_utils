@@ -263,3 +263,9 @@ module.exports = {
     }
 }
 ```
+
+# 10，根据feat,fix等自动更新版本
+```
+yarn add standard-version --dev
+"log": "standard-version"
+```
