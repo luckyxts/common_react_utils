@@ -1,6 +1,6 @@
 {
   "name": "@luckyxts/common_react_utils",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "",
   "main": "index.js",
   "files": [
@@ -15,7 +15,7 @@
     "build-ts": "tsc -p ./config/tsconfig.build.json",
     "clean": "rimraf ./dist",
     "build": "yarn clean && yarn build-ts && yarn build-css",
-    "update-npm-and-git": "git push --follow-tags origin master && npm publish",
+    "update-npm-and-git": "git push --follow-tags origin master && npm publish --access public",
     "log": "standard-version",
     "release": "yarn build && standard-version && yarn update-npm-and-git"
   },
