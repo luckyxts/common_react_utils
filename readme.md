@@ -269,3 +269,8 @@ module.exports = {
 yarn add standard-version --dev
 "log": "standard-version"
 ```
+# 11，自动发布
+```
+"update-npm-and-git": "git push --follow-tags origin master && npm publish",
+"release": "yarn build && standard-version && yarn update-npm-and-git"
+```

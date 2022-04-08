@@ -18,6 +18,7 @@ module.exports = {
     "import/extensions": 'off',
     "react/jsx-filename-extension": 'off',
     "import/no-extraneous-dependencies": 'off',
-    "no-undef": 'off'
+    "no-undef": 'off',
+    "import/prefer-default-export": 'off'
   }
 };
