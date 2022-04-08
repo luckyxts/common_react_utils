@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.15](https://github.com/luckyxts/common_react_utils/compare/v1.1.14...v1.1.15) (2022-04-08)
+
+
+### Bug Fixes
+
+* first commit ([4b932e7](https://github.com/luckyxts/common_react_utils/commit/4b932e7f6b81c58090325e7d265079ac41817fbe))
+
 ### [1.1.14](https://github.com/luckyxts/common_react_utils/compare/v1.1.13...v1.1.14) (2022-04-08)
 
 ### [1.1.13](https://github.com/luckyxts/common_react_utils/compare/v1.1.11...v1.1.13) (2022-04-08)
